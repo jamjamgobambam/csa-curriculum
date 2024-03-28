@@ -1,0 +1,91 @@
+#91: Sylheti
+#90: Min Dong Chinese
+#89: Uyghur
+#88: Taʽizzi-Adeni Arabic
+#87: Czech
+#86: Rundi
+#85: Southern Pashto
+#84: Min Bei Chinese
+#83: Sanaani Spoken Arabic
+#82: Tunisian Arabic
+#81: South Levantine Arabic
+#80: Zulu
+#79: Kinyarwanda
+#78: Hungarian
+#77: Deccan
+#76: Kazakh
+#75: Chittagonian
+#74: Greek
+#73: South Azerbaijani
+#72: Bavarian
+#71: Nigerian Fulfulde
+#70: Hejazi Arabic
+#69: Northern Kurdish
+#68: Sinhalese
+#67: Assamese
+#66: Mesopotamian Arabic
+#65: Nepali
+#64: Cebuano
+#63: Malay (Malaysian Malay)
+#62: Somali
+#61: Chhattisgarhi
+#60: Khmer
+#59: Saraiki
+#58: Thai
+#57: Magahi
+#56: Northern Pashto
+#55: Amharic
+#54: Gan Chinese
+#53: Saʽidi Arabic
+#52: Dutch
+#51: Tagalog
+#50: Romanian
+#49: North Levantine Arabic
+#48: Sindhi
+#47: Northern Uzbek
+#46: Igbo
+#45: Ukrainian
+#44: Moroccan Arabic
+#43: Algerian Arabic
+#42: Sudanese Arabic
+#41: Sunda
+#40: Eastern Punjabi
+#39: Burmese
+#38: Maithili
+#37: Odia
+#36: Malayalam
+#35: Xiang Chinese
+#34: Yoruba
+#33: Polish
+#32: Indonesian (Indonesian Malay)
+#31: Kannada
+#30: Hausa
+#29: Jin Chinese
+#28: Hakka Chinese
+#27: Min Nan Chinese
+#26: Bhojpuri
+#25: Iranian Persian
+#24: Gujarati
+#23: Egyptian Arabic
+#22: Italian
+#21: Javanese
+#20: Urdu (Persianised Hindustani
+#19: Yue Chinese
+#18: Tamil
+#17: Vietnamese
+#16: German
+#15: French
+#14: Korean
+#13: Turkish
+#12: Wu Chinese
+#11: Telugu
+#10: Marathi
+#9: Western Punjabi
+#8: Japanese
+#7: Russian
+#6: Portuguese
+#5: Bengali
+#4: Hindi (Sanskritised Hindustani)
+#3: English
+#2: Spanish
+#1: Mandarin Chinese
